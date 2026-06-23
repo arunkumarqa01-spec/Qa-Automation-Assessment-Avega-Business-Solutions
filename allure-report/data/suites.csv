@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25172","TC001 - Verify successful login with valid credentials","chromium","2026-06-23","passed","2026-06-23","OrangeHRM Login Functionality","ui-tests\TS001.spec.js","",""
+"","7369","TC003 - Verify error message for invalid password","chromium","2026-06-23","passed","2026-06-23","OrangeHRM Login Functionality","ui-tests\TS001.spec.js","",""
+"","43082","TC002 - Verify user can login by pressing Enter key","chromium","2026-06-23","broken","2026-06-23","OrangeHRM Login Functionality","ui-tests\TS001.spec.js","",""
+"","9194","TC004 - Verify login fails with invalid username","chromium","2026-06-23","passed","2026-06-23","OrangeHRM Login Functionality","ui-tests\TS001.spec.js","",""
